@@ -7,7 +7,8 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        // Code from User 1 (GitKraken)
+        gameObject.SetActive(false);
     }
 
     // Update is called once per frame
