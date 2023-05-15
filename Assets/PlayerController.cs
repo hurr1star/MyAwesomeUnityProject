@@ -9,6 +9,8 @@ public class PlayerController : MonoBehaviour
     {
         // Code from User 1 (GitKraken)
         gameObject.SetActive(false);
+        // Added by User 2 (GitHub Desktop)
+        GameObject.Destroy(this);
     }
 
     // Update is called once per frame
